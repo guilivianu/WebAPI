@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="FicandoOnline" title="#FicandoOnline" src=".images/header.jpg" width="100%" />
+    <img alt="FicandoOnline" title="#FicandoOnline" src="./WebAPIapp/.images/header.jpg" width="100%" />
 </h1>
 
 <h4 align="center"> 
@@ -20,15 +20,14 @@ Como ele funciona? O app consome uma API externa, no caso, a API pública do Git
 
 Esse projeto é utilizado no curso 4 da formação base de React Native da plataforma da Alura.
 
-
 <h1 align="center">
     <img alt="Demonstracao" title="Demonstracao" src=".images/ficando-online-newdesign.gif" width="400px" />
 </h1>
 
-
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com a utilização das seguintes tecnologias:
+
 - [React Native][rn]
 - [Expo][expo]
 
@@ -58,8 +57,7 @@ $ npm install
 $ expo start
 ```
 
-
-Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser dar um salve, estou lá no LinkedIn [André Oliveira Cunha](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/). :wave: 
+Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser dar um salve, estou lá no LinkedIn [André Oliveira Cunha](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/). :wave:
 
 [nodejs]: https://nodejs.org/
 [expo]: https://docs.expo.dev/
