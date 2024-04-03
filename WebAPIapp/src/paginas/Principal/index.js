@@ -9,7 +9,6 @@ import {
   ScrollView,
 } from "react-native";
 import estilos from "./estilos";
-import api from "../../servicos/api";
 import { buscaUsuario } from "../../servicos/requisicoes/usuarios";
 
 export default function Principal({ navigation }) {
