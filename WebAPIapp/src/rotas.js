@@ -15,18 +15,22 @@ export default function Rotas() {
       <Tab.Navigator>
         <Tab.Screen
           name="Principal"
-          options={{ title: "Perfil" }}
+          options={{ title: "Perfil", headerTitleAlign: "center" }}
           component={Principal}
         />
-        <Tab.Screen name="Repositorios" component={Repositorios} />
+        <Tab.Screen
+          name="Repositorios"
+          component={Repositorios}
+          options={{ title: "Repositório", headerTitleAlign: "center" }}
+        />
         <Tab.Screen
           name="CriarRepositorio"
-          options={{ title: "Criar Repositório" }}
+          options={{ title: "Criar Repositório", headerTitleAlign: "center" }}
           component={CriarRepositorio}
         />
         <Tab.Screen
           name="InfoRepositorio"
-          options={{ title: "Repositório Info" }}
+          options={{ title: "Repositório Info", headerTitleAlign: "center" }}
           component={InfoRepositorio}
         />
       </Tab.Navigator>
